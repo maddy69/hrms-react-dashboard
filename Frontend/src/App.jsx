@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Users, UserCheck, UserX, Search, UserPlus, Calendar, Trash2, X } from 'lucide-react';
 
-const API_URL = "https://hrms-backend-t839.onrender.com";
+const API_URL = "https://hrms-backend-final-ep2x.onrender.com";
 
 export default function App() {
   const [employees, setEmployees] = useState([]);
