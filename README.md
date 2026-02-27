@@ -3,9 +3,7 @@
 A production-grade Human Resource Management System. This repository contains both the React/Tailwind frontend and the FastAPI backend.
 
 ## 🚀 Live Demo
-- **Live Application:** [INSERT YOUR VERCEL LINK HERE]
-- **API Documentation (Swagger):** [INSERT YOUR RENDER LINK HERE]/docs
-
+- **Live Application:** https://hrms-react-dashboard.vercel.app
 ---
 
 ## 🏗️ Project Architecture (Monorepo)
